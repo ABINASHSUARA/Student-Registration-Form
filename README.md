@@ -1,3 +1,4 @@
+
 **Student Registration Form Web App**
 
 ---
@@ -40,9 +41,14 @@ This project is a simple web application for student registration. Users can fil
 **Credits:**
 
 - **Author:** Abinash Suara
-- **GitHub Repository:** [Student Registration Form]https://abinashsuara.github.io/Student-Registration-Form/
+- **GitHub Repository:** [Student Registration Form](https://abinashsuara.github.io/Student-Registration-Form/)
 
 ---
 
+**License:**
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code for any purpose.
+
+---
 
 Feel free to customize and expand upon this project as needed. Happy registration!
