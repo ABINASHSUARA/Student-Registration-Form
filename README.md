@@ -40,12 +40,9 @@ This project is a simple web application for student registration. Users can fil
 **Credits:**
 
 - **Author:** Abinash Suara
-- **GitHub Repository:** [Student Registration Form](https://github.com/Abi123-suara/student-registration-form)
+- **GitHub Repository:** [Student Registration Form]https://abinashsuara.github.io/Student-Registration-Form/
 
 ---
 
-Project Link:
-
----
 
 Feel free to customize and expand upon this project as needed. Happy registration!
